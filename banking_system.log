@@ -1,0 +1,73 @@
+root - INFO - Customer 94e018b8-3d07-4bdc-870d-281637ee49d5 successfully deleted
+root - INFO - Customer 64476cb3-3a2f-49de-ac97-f2feed6b0afa created successfully
+root - INFO - Customer 64476cb3-3a2f-49de-ac97-f2feed6b0afa successfully deleted
+root - INFO - Customer 0cb4a227-cb67-4742-ab9e-2e62ffcc8bfd created successfully
+  m/23/2021  I:  M:  S  p - root - INFO - Customer 0cb4a227-cb67-4742-ab9e-2e62ffcc8bfd successfully deleted
+ 09/23/2021 10: 33: 32 PM - root - INFO - Customer 6ab4fc33-5443-46e6-8d6e-7cb266df6b31 created successfully
+ 09/23/2021 10: 35: 20 PM - root - INFO - Customer 6ab4fc33-5443-46e6-8d6e-7cb266df6b31 successfully deleted
+ 09/23/2021 10: 35: 26 PM - root - INFO - Customer Papa Reddy is created with id 70fbf9b4-a873-488b-98e0-acc0ec36e6a1  successfully
+ 09/23/2021 11: 03: 23 PM - root - INFO - Customer 70fbf9b4-a873-488b-98e0-acc0ec36e6a1 successfully deleted
+ 09/24/2021 02: 14: 18 PM - root - INFO - Customer Papa Reddy is created with id e1aea661-31fa-4437-b5f7-b6761f307da5 successfully
+ 10/01/2021 11: 33: 24 PM - root - INFO - Transaction a84e4dfc-35a0-44db-9910-73d22e2c81fd from 9e9be8ca-b56e-4f33-8436-bc92f8701ea5 to cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8 successfully done
+ 10/02/2021 12: 41: 15 AM - root - INFO - Customer Angel Master is created with id 25a1eb3e-36ea-44c9-9214-8de3edf07397 successfully
+ 10/02/2021 12: 42: 45 AM - root - INFO - New account created for 25a1eb3e-36ea-44c9-9214-8de3edf07397 account no. : 318c6649-95ce-42d4-a5fb-6b0cfed5a7b7
+ 10/02/2021 12: 42: 45 AM - root - INFO - Account Created for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+Account type:S
+Parent account:N/A
+Child account:N/A
+ 10/02/2021 01: 01: 34 AM - root - INFO - Employee 4ab5459f created successfully
+ 10/02/2021 01: 05: 11 AM - root - INFO - Employee : 6bf0e07b is verifying the request
+ 10/02/2021 01: 06: 26 AM - root - INFO - Employee : 6bf0e07b is verifying the request
+ 10/02/2021 01: 32: 09 AM - root - INFO - Employee : 4ab5459f is verifying the request
+ 10/02/2021 01: 47: 33 AM - root - INFO - Employee : 4ab5459f is verifying the request
+ 10/02/2021 01: 47: 46 AM - root - INFO - Employee : 4ab5459f is verifying the request
+ 10/02/2021 01: 50: 45 AM - root - INFO - Employee : 4ab5459f is verifying the request
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 50: 45 AM - root - INFO - Services - Creditcard is already present for account ID: 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 55: 33 AM - root - INFO - Employee : 4ab5459f is verifying the request
+ 10/02/2021 01: 55: 33 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 55: 33 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 55: 33 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 55: 33 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 55: 33 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 55: 33 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 55: 33 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 55: 33 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 55: 33 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 55: 33 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 55: 33 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 55: 33 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - Employee : 6bf0e07b is verifying the request
+ 10/02/2021 01: 57: 10 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 57: 10 AM - root - INFO - Services - Creditcard is already present for account ID: 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 01: 58: 35 AM - root - INFO - Employee : 6bf0e07b is verifying the request
+ 10/02/2021 01: 58: 35 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 02: 00: 09 AM - root - INFO - Employee : 6bf0e07b is verifying the request
+ 10/02/2021 02: 00: 09 AM - root - INFO - 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for 25a1eb3e-36ea-44c9-9214-8de3edf07397
+ 10/02/2021 02: 01: 26 AM - root - INFO - Employee : 6bf0e07b is verifying the request
+ 10/02/2021 02: 01: 26 AM - root - INFO - Account_id 25a1eb3e-36ea-44c9-9214-8de3edf07397 is not present for customer_id 25a1eb3e-36ea-44c9-9214-8de3edf07397
