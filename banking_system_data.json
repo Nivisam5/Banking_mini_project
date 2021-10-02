@@ -1,0 +1,279 @@
+{
+    "Customers": {
+        "71cbc60f-c6ae-4a4a-a77f-a48060dea272": {
+            "First Name": "Murali",
+            "Last Name": "Reddy",
+            "Street Address": "Savannah",
+            "Apt/Suite No": "3757",
+            "City": "Fremont",
+            "State": "CA",
+            "Country": "USA",
+            "phone": "111",
+            "email": "gmail",
+            "DOB": "02092021",
+            "Sex": "M",
+            "customer id": "71cbc60f-c6ae-4a4a-a77f-a48060dea272",
+            "credit score": "700"
+        },
+        "e61784ec-21c9-4a7d-a205-65b2a833f526": {
+            "First Name": "Madhan",
+            "Last Name": "Reddy",
+            "Street Address": "Savannah",
+            "Apt/Suite No": "3757",
+            "City": "Fremont",
+            "State": "CA",
+            "Country": "USA",
+            "phone": "408",
+            "email": "gmail",
+            "DOB": "06101989",
+            "Sex": "M",
+            "customer id": "e61784ec-21c9-4a7d-a205-65b2a833f526",
+            "credit score": "650"
+        },
+        "e1aea661-31fa-4437-b5f7-b6761f307da5": {
+            "First Name": "Papa",
+            "Last Name": "Reddy",
+            "Street Address": "MesaLn",
+            "Apt/Suite No": "3737",
+            "City": "SantaClara",
+            "State": "CA",
+            "Country": "USA",
+            "phone": "505",
+            "email": "gmail",
+            "DOB": "01022022",
+            "Sex": "F",
+            "customer id": "e1aea661-31fa-4437-b5f7-b6761f307da5",
+            "credit score": "750"
+        },
+        "25a1eb3e-36ea-44c9-9214-8de3edf07397": {
+            "First Name": "Angel",
+            "Last Name": "Master",
+            "Street Address": "MesaLn",
+            "Apt/Suite No": "3737",
+            "City": "SantaClara",
+            "State": "CA",
+            "Country": "USA",
+            "phone": "408",
+            "email": "gmail",
+            "DOB": "01012022",
+            "Sex": "F",
+            "customer id": "25a1eb3e-36ea-44c9-9214-8de3edf07397",
+            "credit score": "350"
+        }
+    },
+    "Accounts": {
+        "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8": {
+            "customer_id": "1cbc60f-c6ae-4a4a-a77f-a48060dea272",
+            "account_id": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "account_type": "S",
+            "transactions": [
+                "2217743e-a6bd-47e7-94e8-1cb8d8b0e37e",
+                "0002f1dd-6f0b-486d-9ae0-35326f13a35a",
+                "f058e1d0-50d2-4f5a-b7b3-e805fc08c6f3"
+            ],
+            "balance": 500,
+            "service_ids": [],
+            "parent_account": "NA",
+            "child_account": "NA"
+        },
+        "9e9be8ca-b56e-4f33-8436-bc92f8701ea5": {
+            "customer_id": "e61784ec-21c9-4a7d-a205-65b2a833f526",
+            "account_id": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "account_type": "S",
+            "transactions": [
+                "bb097e16-dc0b-4414-ba7e-5cef8dcd9b9a",
+                "b50a4924-c50f-44a7-a7f7-c355cebf1907",
+                "a84e4dfc-35a0-44db-9910-73d22e2c81fd"
+            ],
+            "balance": 200,
+            "service_ids": [
+                "0f21fdc5-994d-46d0-90c4-64aa15733dbb"
+            ],
+            "parent_account": "NA",
+            "child_account": "NA"
+        },
+        "318c6649-95ce-42d4-a5fb-6b0cfed5a7b7": {
+            "customer_id": "25a1eb3e-36ea-44c9-9214-8de3edf07397",
+            "account_id": "318c6649-95ce-42d4-a5fb-6b0cfed5a7b7",
+            "account_type": "S",
+            "transactions": [],
+            "balance": 0,
+            "service_ids": [],
+            "parent_account": "N/A",
+            "child_account": "N/A"
+        }
+    },
+    "Employees": {
+        "6bf0e07b": {
+            "Employee id": "6bf0e07b",
+            "First Name": "Sambath Kumar",
+            "Last Name": "ND",
+            "Street Address": "Alhambra rd",
+            "Apt/Suite No": "3888",
+            "City": "Fremont",
+            "State": "CA",
+            "Country": "USA",
+            "phone": "944",
+            "email": "gmail",
+            "DOB": "07051955",
+            "Sex": "M",
+            "salary": "190000",
+            "start date": "04012019",
+            "end data": "01019999",
+            "Work authorization": "H1B"
+        },
+        "4ab5459f": {
+            "Employee id": "4ab5459f",
+            "First Name": "Ross",
+            "Last Name": "Geller",
+            "Street Address": "Jameston rd",
+            "Apt/Suite No": "215",
+            "City": "Hayward",
+            "State": "CA",
+            "Country": "USA",
+            "phone": "555",
+            "email": "ymail",
+            "DOB": "02031997",
+            "Sex": "M",
+            "salary": "100000",
+            "start date": "02022018",
+            "end data": "01019999",
+            "Work authorization": "US-C"
+        }
+    },
+    "Services": {
+        "bf81cf62-aca8-4273-87d8-0808890f3295": {
+            "customer id": "1cbc60f-c6ae-4a4a-a77f-a48060dea272",
+            "service id": "bf81cf62-aca8-4273-87d8-0808890f3295",
+            "service type": "creditcard",
+            "balance": 0,
+            "account id": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "Employee id": "4a5dc766"
+        },
+        "965d1191-5939-42c8-9ebc-2f92b72355e4": {
+            "customer id": "1cbc60f-c6ae-4a4a-a77f-a48060dea272",
+            "service id": "965d1191-5939-42c8-9ebc-2f92b72355e4",
+            "service type": "debitcard",
+            "balance": "200",
+            "account id": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "Employee id": "4a5dc766"
+        },
+        "1595cda5-92a7-4a68-9984-c9499db28b7e": {
+            "customer id": "1cbc60f-c6ae-4a4a-a77f-a48060dea272",
+            "service id": "1595cda5-92a7-4a68-9984-c9499db28b7e",
+            "service type": "Credit Card",
+            "balance": 0,
+            "account id": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "Employee id": "4a5dc766"
+        },
+        "0f21fdc5-994d-46d0-90c4-64aa15733dbb": {
+            "customer id": "e61784ec-21c9-4a7d-a205-65b2a833f526",
+            "service id": "0f21fdc5-994d-46d0-90c4-64aa15733dbb",
+            "service type": "creditcard",
+            "balance": 0,
+            "account id": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "Employee id": "6bf0e07b"
+        }
+    },
+    "Transactions": {
+        "acbb3343-e12c-4a3e-bcf6-3d6a10aaecae": {
+            "Transaction id": "acbb3343-e12c-4a3e-bcf6-3d6a10aaecae",
+            "customer id": "1cbc60f-c6ae-4a4a-a77f-a48060dea272",
+            "Transaction type": "withdrawal",
+            "Account id": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "Transaction description": "gift",
+            "From account": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "To account": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "Amount": "500",
+            "Date": "Sep-22-2021"
+        },
+        "728e4a49-7d5a-4be4-b181-6cdcd48865a7": {
+            "Transaction id": "728e4a49-7d5a-4be4-b181-6cdcd48865a7",
+            "customer id": "1cbc60f-c6ae-4a4a-a77f-a48060dea272",
+            "Transaction type": "withdrawal",
+            "Account id": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "Transaction description": "gift",
+            "From account": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "To account": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "Amount": "500",
+            "Date": "Sep-22-2021"
+        },
+        "92e7febd-851e-4195-aee1-6d11e50906ba": {
+            "Transaction id": "92e7febd-851e-4195-aee1-6d11e50906ba",
+            "customer id": "1cbc60f-c6ae-4a4a-a77f-a48060dea272",
+            "Transaction type": "withdrawal",
+            "Account id": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "Transaction description": "gift",
+            "From account": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "To account": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "Amount": "500",
+            "Date": "Sep-22-2021"
+        },
+        "2217743e-a6bd-47e7-94e8-1cb8d8b0e37e": {
+            "Transaction id": "2217743e-a6bd-47e7-94e8-1cb8d8b0e37e",
+            "customer id": "1cbc60f-c6ae-4a4a-a77f-a48060dea272",
+            "Transaction type": "withdrawal",
+            "Account id": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "Transaction description": "gift",
+            "From account": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "To account": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "Amount": "500",
+            "Date": "Sep-22-2021"
+        },
+        "0002f1dd-6f0b-486d-9ae0-35326f13a35a": {
+            "Transaction id": "0002f1dd-6f0b-486d-9ae0-35326f13a35a",
+            "customer id": "1cbc60f-c6ae-4a4a-a77f-a48060dea272",
+            "Transaction type": "withdrawal",
+            "Account id": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "Transaction description": "gift",
+            "From account": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "To account": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "Amount": "500",
+            "Date": "Sep-22-2021"
+        },
+        "f058e1d0-50d2-4f5a-b7b3-e805fc08c6f3": {
+            "Transaction id": "f058e1d0-50d2-4f5a-b7b3-e805fc08c6f3",
+            "customer id": "1cbc60f-c6ae-4a4a-a77f-a48060dea272",
+            "Transaction type": "withdrawal",
+            "Account id": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "Transaction description": "gift",
+            "From account": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "To account": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "Amount": "500",
+            "Date": "Sep-22-2021"
+        },
+        "bb097e16-dc0b-4414-ba7e-5cef8dcd9b9a": {
+            "Transaction id": "bb097e16-dc0b-4414-ba7e-5cef8dcd9b9a",
+            "customer id": "e61784ec-21c9-4a7d-a205-65b2a833f526",
+            "Transaction type": "withdrawal",
+            "Account id": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "Transaction description": "resend",
+            "From account": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "To account": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "Amount": "500",
+            "Date": "Sep-22-2021"
+        },
+        "b50a4924-c50f-44a7-a7f7-c355cebf1907": {
+            "Transaction id": "b50a4924-c50f-44a7-a7f7-c355cebf1907",
+            "customer id": "e61784ec-21c9-4a7d-a205-65b2a833f526",
+            "Transaction type": "withdrawal",
+            "Account id": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "Transaction description": "resend",
+            "From account": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "To account": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "Amount": "500",
+            "Date": "Sep-22-2021"
+        },
+        "a84e4dfc-35a0-44db-9910-73d22e2c81fd": {
+            "Transaction id": "a84e4dfc-35a0-44db-9910-73d22e2c81fd",
+            "customer id": "e61784ec-21c9-4a7d-a205-65b2a833f526",
+            "Transaction type": "withdrawal",
+            "Account id": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "Transaction description": "resend",
+            "From account": "9e9be8ca-b56e-4f33-8436-bc92f8701ea5",
+            "To account": "cbe97a07-f8f3-4b8e-a4b4-9bf27a2eb1d8",
+            "Amount": "500",
+            "Date": "Oct-01-2021"
+        }
+    }
+}
